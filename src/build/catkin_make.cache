@@ -1,0 +1,2 @@
+demo:techman_robot:tm12_description:tm12_moveit_config:tm5_700_moveit_config:tm5_900_moveit_config:tm5_description:tm_demo:tm_driver:tm_msgs:tmr_description:ui_for_debug_and_demo
+-DCATKIN_DEVEL_PREFIX=/home/progettodcirv/catkin_ws/src/devel -DCMAKE_INSTALL_PREFIX=/home/progettodcirv/catkin_ws/src/install -G Unix Makefiles
